@@ -58,7 +58,7 @@ body {
 }
 
 .floating {
-position: fixed;
+position: relative;
 width: 40px;
 height: 40px;
 bottom: 20px;
